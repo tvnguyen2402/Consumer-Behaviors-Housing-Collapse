@@ -14,7 +14,7 @@ global dataout "$mainpath/DATAOUT"
 capture  mkdir "$mainpath/OUTPUT"
 global output "$mainpath/OUTPUT"
 
-
+/* Define global */
 global filename beer blades carbbev cigets coffee coldcer deod diapers factiss fzdinent fzpizza hhclean hotdog laundet margbutr mayo milk mustketc paptowl peanbutr photo razors saltsnck shamp soup spagsauc sugarsub toitisu toothbr toothpa yogurt
 
 **************************************************
